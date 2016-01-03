@@ -1,0 +1,6 @@
+applications:
+- name: cognos008
+  path: MyData/mobiled.war
+  domain: mybluemix.net
+  mem: 512M
+  instances: 1
